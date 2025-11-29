@@ -15,3 +15,4 @@ uv.lock
 
 src/.deepeval
 src/.litellm_cache
+src/data
