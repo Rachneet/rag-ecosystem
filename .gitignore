@@ -12,6 +12,7 @@ wheels/
 uv.lock
 .idea
 .vscode
+.DS_Store
 
 src/.deepeval
 src/.litellm_cache
